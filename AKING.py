@@ -1,4 +1,4 @@
-import os, platform
+import os, platform, time
 try:
     import requests
 except:
@@ -7,7 +7,7 @@ os.system('git pull')
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    print("\n\x1b[1;92m Congratulations ! Your Device Support Tolls\033[1;37m")
+    print("\n\x1b[1;92m Congratulations ! Your Device Support Tolls\033[1;37m");time.sleep(5)
     os.system('xdg-open https://facebook.com/groups/1017905562448002/')
 if __name__ == "__main__":
 	try:
