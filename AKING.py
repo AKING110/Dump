@@ -7,8 +7,8 @@ os.system('git pull')
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    print("\n\x1b[1;92m Congratulations ! Your Device Support Tolls\033[1;37m");time.sleep(5)
-    os.system('xdg-open https://facebook.com/groups/1017905562448002/')
+    print("\n\x1b[1;92m Congratulations ! Your Device Support Tolls\033[1;37m")
+    os.system('xdg-open https://facebook.com/groups/1017905562448002/');time.sleep(8)
 if __name__ == "__main__":
 	try:
 		__import__("Dump").Menu()
