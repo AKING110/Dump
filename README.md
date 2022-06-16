@@ -1,26 +1,34 @@
-# Dump
-Dump Multi Free ❤
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Mr.AKING-dimgray?style=flat-square&logo=github)](https://github.com/AKING110)<br> [![Facebook](https://img.shields.io/badge/Facebook-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Imtiaz.Aking.07)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923237528063)
 
-𝙴𝙽𝙹𝙾𝚈 𝙵𝚁𝙴𝙴 ❤🥀
 
-pkg update
 
-pkg upgrade
+<h1 align="center"> [MR.AKING]</h1>
 
-pkg install git
+<h2 align="center">  FB DUMPING TOOL FREE </h2>
 
-pkg install python - python2
 
-pip install requests
+## <b>installation</b>
 
-pip install mechanize
+🔰 _DUMP AUTO FILE_ 🔰
 
-pip install bs4
+- `pkg update`
+- `pkg upgrade`
+- `pkg install git`
+- `pkg install python`
+- `pkg install python2`
+- `pip install requests`
+- `pip install mechanize`
+- `pip install lolcat`
+- `pip install bs4`
+- `rm -rf AKING`
+- `git clone https://github.com/AKING110/Dump.git`
+- `cd Dump`
+- `python AKING.py`
+     
+ _RUN COMMANDS_
+- `cd`
+- `cd Dump`
+- `python Dump.py`
 
-rm -rf Dump
-
-git clone https://github.com/AKING110/Dump
-
-cd Dump
-
-python AKING.py
+ ```Note : This Tools is Free Dumping Tool ```</br>
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923237528063)
