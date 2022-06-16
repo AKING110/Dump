@@ -28,7 +28,7 @@
  _RUN COMMANDS_
 - `cd`
 - `cd Dump`
-- `python Dump.py`
+- `python AKING.py`
 
  ```Note : This Tools is Free Dumping Tool ```</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923237528063)
