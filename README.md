@@ -20,7 +20,7 @@
 - `pip install mechanize`
 - `pip install lolcat`
 - `pip install bs4`
-- `rm -rf AKING`
+- `rm -rf Dump`
 - `git clone https://github.com/AKING110/Dump.git`
 - `cd Dump`
 - `python AKING.py`
