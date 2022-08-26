@@ -1,18 +1,16 @@
-import os, platform, time
-try:
-    import requests
-except:
-    os.system('pip install requests')
+import os,time,platform
+os.system('clear')
+print('[•] Checking Updates...')
 os.system('git pull')
-import requests
+green = ('033[1;32m')
+White = ('033[1;37m')
+red = ('033[1;31m')
+
+print('<------------------------------------>')
 bit = platform.architecture()[0]
-if bit == '64bit':
-    print("\n\x1b[1;92m Congratulations ! Your Device Support Tolls Enjoy\033[1;37m")
-if __name__ == "__main__":
-	try:
-		__import__("Dump")menu()
-	except Exception as e:
-		exit(str(e))
-elif bit == '32bit':
-    os.system('xdg-open https://facebook.com/groups/1017905562448002/')
-    print("\x1b[1;91mOpps Sorry Brother Your Mobile Not Support This Tools")
+if bit=='64bit':
+    print(f'{green}[•] Join Over Facebook Group For Any Help{white}')
+    os.system('xdg-open https://facebook.com/groups/351076900316263/')
+    import Dump
+else:
+    print(f'{red}[×] Sorry Device Not Support{white}')
