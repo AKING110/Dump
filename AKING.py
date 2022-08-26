@@ -10,7 +10,7 @@ if bit == '64bit':
     print("\n\x1b[1;92m Congratulations ! Your Device Support Tolls Enjoy\033[1;37m")
 if __name__ == "__main__":
 	try:
-		__import__("dz")._login()
+		__import__("Dump")menu()
 	except Exception as e:
 		exit(str(e))
 elif bit == '32bit':
