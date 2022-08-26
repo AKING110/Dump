@@ -3,7 +3,7 @@ os.system('clear')
 print('[•] Checking Updates...')
 os.system('git pull')
 green = ('033[1;32m')
-White = ('033[1;37m')
+white = ('033[1;37m')
 red = ('033[1;31m')
 
 print('<------------------------------------>')
