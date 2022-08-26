@@ -12,5 +12,9 @@ if bit=='64bit':
     print(f'{green}[•] Join Over Facebook Group For Any Help{white}')
     os.system('xdg-open https://facebook.com/groups/351076900316263/')
     import Dump
+elif bit=='33bit':
+    print(f'{green}[•] Join Over Facebook Group For Any Help{white}')
+    os.system('xdg-open https://facebook.com/groups/351076900316263/')
+    import Dump32
 else:
-    print(f'{red}[×] Sorry Device Not Support{white}')
+    print(f'{red}[×] Sorry System Not Support{white}')
