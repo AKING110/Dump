@@ -2,9 +2,9 @@ import os,time,platform
 os.system('clear')
 print('[•] Checking Updates...')
 os.system('git pull')
-green = ('033[1;32m')
-white = ('033[1;37m')
-red = ('033[1;31m')
+green = ('\033[1;32m')
+white = ('\033[1;37m')
+red = ('\033[1;31m')
 
 print('<------------------------------------>')
 bit = platform.architecture()[0]
