@@ -11,7 +11,8 @@ bit = platform.architecture()[0]
 if bit=='64bit':
     print(f'{green}[•] Join Over Facebook Group For Any Help{white}')
     os.system('xdg-open https://facebook.com/groups/351076900316263/')
-    import Dump
+    import dump
+    dump.Main()
 elif bit=='32bit':
     print(f'{green}[•] Join Over Facebook Group For Any Help{white}')
     os.system('xdg-open https://facebook.com/groups/351076900316263/')
