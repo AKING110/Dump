@@ -18,7 +18,7 @@
 - `pip install requests`
 - `pip install mechanize`
 - `rm -rf Dump`
-- `git clone --deptg=1 https://github.com/AKING110/Dump.git`
+- `git clone --depth=1 https://github.com/AKING110/Dump.git`
 - `cd Dump`
 - `python AKING.py`
      
