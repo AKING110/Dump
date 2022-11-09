@@ -15,13 +15,10 @@
 - `pkg upgrade`
 - `pkg install git`
 - `pkg install python`
-- `pkg install python2`
 - `pip install requests`
 - `pip install mechanize`
-- `pip install lolcat`
-- `pip install bs4`
 - `rm -rf Dump`
-- `git clone https://github.com/AKING110/Dump.git`
+- `git clone --deptg=1 https://github.com/AKING110/Dump.git`
 - `cd Dump`
 - `python AKING.py`
      
