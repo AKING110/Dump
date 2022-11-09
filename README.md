@@ -24,7 +24,7 @@
      
  _RUN COMMANDS_
 - `cd`
-- `cd Dump`
+- `cd Dump` 
 - `python AKING.py`
 
  ```Note : This Tools is Free Dumping Tool ```</br>
